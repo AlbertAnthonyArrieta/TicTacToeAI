@@ -1,4 +1,6 @@
-CPSC3750 Assignment 2: Tic Tac Toe AI using Minimax Algorithm
+
+Tic Tac Toe AI using Minimax Algorithm
+A small project made for my Artificial Intelligence class.
 Author: Albert Arrieta
 
 Instructions to run:
