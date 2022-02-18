@@ -5,8 +5,6 @@ import java.lang.Math;
  * CPSC3750 Assignment 2, TicTacToe with Minimax AI
  * Author: Albert Arrieta
  * 
- * NOTE:
- * IMPLEMENT MINIMAX
  */
 
 public class App {
